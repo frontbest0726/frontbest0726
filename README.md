@@ -17,7 +17,7 @@ I am a frontend developer (with full-stack capabilities) and I craft visually st
 
 
 ### Currently Learning 🌱
-Jest and Firebase
+React and Firebase
 
 ### Contact Me ☎️
 I believe the best solutions emerge from collective creativity, so feel free to get in touch via my primary email ( gentleman0726@gmail.com ), and let's build something great together! 🚀
